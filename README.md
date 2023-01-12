@@ -1,5 +1,5 @@
 # Dhruv Kauts
-## Upcoming Software Intern at Shell Technologies
+### Upcoming Software Intern at Shell Technologies
 ### Distilled for the eradication of seemingly irrepairable code
 
 
