@@ -1,4 +1,7 @@
-### Hi there 👋
+# Kauts
+### Warrior with a keyboard, not a keyboard warrior
+#### I make what I want
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvKauts2&theme=dark)](https://git.io/streak-stats)
 <!--
