@@ -1,6 +1,6 @@
 # Dhruv Kauts
 ## Upcoming Software Intern at Shell Technologies
-## Distilled for the eradication of seemingly irrepairable code
+Distilled for the eradication of seemingly irrepairable code
 ### Batch of '23, Comp Sci undergraduate at Punjab Engineering College 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvKauts2&theme=dark)](https://git.io/streak-stats)
