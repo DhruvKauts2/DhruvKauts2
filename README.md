@@ -1,6 +1,6 @@
 # Dhruv Kauts
 ## Upcoming Software Intern at Shell Technologies
-### I make what I want
+### Distilled for the eradication of seemingly irrepairable code
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvKauts2&theme=dark)](https://git.io/streak-stats)
