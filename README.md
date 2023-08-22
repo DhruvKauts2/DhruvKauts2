@@ -1,5 +1,5 @@
 # Dhruv Kauts
-## Upcoming Software Intern at Shell Technologies
+## QA Engineer at Shell Markets Pvt. Ltd. Bangalore
 Distilled for the eradication of seemingly irrepairable code
 ### Batch of '23, Comp Sci undergraduate at Punjab Engineering College 
 
