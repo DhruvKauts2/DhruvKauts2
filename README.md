@@ -3,6 +3,7 @@
 ### Batch of '23, Comp Sci undergraduate at Punjab Engineering College 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvKauts2&theme=dark)](https://git.io/streak-stats)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF)
 <!--
 **DhruvKauts2/DhruvKauts2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
