@@ -1,6 +1,5 @@
 # Dhruv Kauts
-## QA Engineer at Shell Markets Pvt. Ltd. Bangalore
-Distilled for the eradication of seemingly irrepairable code
+## QA Specialist at Shell Markets Pvt. Ltd. Bangalore
 ### Batch of '23, Comp Sci undergraduate at Punjab Engineering College 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvKauts2&theme=dark)](https://git.io/streak-stats)
