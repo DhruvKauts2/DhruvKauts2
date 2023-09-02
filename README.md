@@ -3,7 +3,7 @@
 ### Batch of '23, Comp Sci undergraduate at Punjab Engineering College 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvKauts2&theme=dark)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DhruvKauts2)](https://github.com/ryo-ma/github-profile-trophy&theme-gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DhruvKauts2)](https://github.com/DhruvKauts2/github-profile-trophy&theme=gruvbox)
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvKauts2&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DhruvKauts2/DhruvKauts2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
