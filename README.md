@@ -2,10 +2,10 @@
 ## QA Specialist at Shell Markets Pvt. Ltd. Bangalore
 ### Batch of '23, Comp Sci undergraduate at Punjab Engineering College 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvKauts2&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKauts2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKauts2&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=DhruvKauts2&theme=gruvbox)](https://github.com/DhruvKauts2/github-profile-trophy)
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvKauts2&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvKauts2&theme=dark)](https://git.io/streak-stats)
 <!--
 **DhruvKauts2/DhruvKauts2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
