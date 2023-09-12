@@ -1,6 +1,7 @@
 # Dhruv Kauts
-## QA Specialist at Shell Markets Pvt. Ltd. Bangalore
-### Batch of '23, Comp Sci undergraduate at Punjab Engineering College 
+## Warrior with a keyboard, not a keyboard warrior
+### QA Specialist at Shell Markets Pvt Ltd, Bangalore
+#### Batch of '23, Comp Sci undergraduate at Punjab Engineering College 
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvKauts2&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKauts2&layout=compact&theme=dark&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=DhruvKauts2&theme=gruvbox)](https://github.com/DhruvKauts2/github-profile-trophy)
